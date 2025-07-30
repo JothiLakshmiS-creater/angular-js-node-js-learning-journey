@@ -15,3 +15,15 @@ let name = "Lakshmi";
 let age = 27;
 console.log("Name:", name);
 console.log("Age:", age);
+
+/*
+var:
+  Function-scoped
+  can redeclare, reassign
+let:
+   block scoped
+   can reassign
+const:
+    block scoped
+    for fixed values
+*/
